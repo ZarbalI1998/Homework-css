@@ -1,0 +1,26 @@
+body{
+    border:15px solid orange;
+   
+  }
+  
+  .margin{
+      width:auto;
+      margin: 98px;
+  }
+  .page{
+      width: 100%;
+     
+  }
+  .details{
+      border-bottom: 5px solid black;
+  }
+  .name{
+      text-align: right;
+  }
+  
+  .date{
+      color: white;
+      background-color: black;
+      float: right;
+      top: 20px;
+  }
